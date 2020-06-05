@@ -2,3 +2,7 @@
 /.pnp
 .pnp.js
 gitignore
+uploads/*
+!uploads/.gitkeep
+
+*.sqlite
